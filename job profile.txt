@@ -1,0 +1,50 @@
+Over
+6+ years of experience in IT industry, involving in Software Design, Analysis,
+Development integration and&nbsp;Testing&nbsp;at client and
+server side (SDLC) in various domains such as Insurance, Commercial and Finance.
+
+
+Good experience in Health Care Domains and gained good working experience in HL7 standards, HIPAA EDI transactions, CDA / Clinical documents.
+
+
+
+Experience
+in developing web pages complying with Web Content Accessibility Guidelines
+(WCAG) and ability to apply W3C web standards
+
+&nbsp;
+
+Excellent
+experience working with UML for drawing the Use Case Diagrams, Class Diagrams,
+Sequence Diagrams, State and Activity Diagrams
+
+Experience as .NET developer in developing Windows based and web based applications using .NET technologies such as C#, VB.NET, ASP.NET, ADO.NET, win forms, Server controls, web services, .NET Framework, HTML/XHTML, DHTML, CSS and IIS.
+
+Experience in developing applications front end using AngularJS, DOM, Knockout JS, Node JS, HTML 5, DHTML, CSS3, Bootstrap, JavaScript framework, Crystal report 9, MS Access, Expression Blend and Design), AJAX controls, Jquery, VBScript. 
+
+Strong experience in implementation of Object Oriented Languages (OOPS), Object Oriented Application Development (OOAD), Relational Database (RDBMS).
+
+
+
+Experience on RESTful API's, Design patterns(MVC5(RAZOR), MVP, MVVM) code-first initial developments, Telerik, MVC5 controls, AJAX controls, VBScript, Visual Basic, developing using the N-tier architectures and applications.
+
+
+
+Experience with Kendo UI Controls and Telerik controls in building interactive and high-performance websites and applications.
+
+
+
+Expertise in Object Oriented Programming (OOP) Concepts like Inheritance, Polymorphism, Abstract Classes, Interfaces, Delegates and Reflections
+
+Experience in SQL Server Database design developing T-SQL queries, function, stored procedures, and triggers using SQL Server and used Data Adapter, Dataset, Data Connection, Data Command, Data reader as a part of ADO.NET to access and update database in ASP.Net environment.
+
+Expertise in using version controlling tools like Team Foundation Server (TFS) Visual Source Safe (VSS), SVN for source code maintenance.
+
+
+Strong analytical and dynamic trouble shooting skills coupled with excellent communication skills and able to work individually and as a team.
+
+
+
+Flexible to work anywhere and ready to relocate
+
+
